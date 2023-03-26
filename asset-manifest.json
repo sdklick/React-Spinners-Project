@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Spinners-Project/static/css/main.b40ac4c2.css",
+    "main.js": "/React-Spinners-Project/static/js/main.1d31b969.js",
+    "index.html": "/React-Spinners-Project/index.html",
+    "main.b40ac4c2.css.map": "/React-Spinners-Project/static/css/main.b40ac4c2.css.map",
+    "main.1d31b969.js.map": "/React-Spinners-Project/static/js/main.1d31b969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40ac4c2.css",
+    "static/js/main.1d31b969.js"
+  ]
+}
